@@ -7,7 +7,16 @@ assignees: ''
 
 ---
 
-- Brief intro of yourself:
-- Personal website: 
-- Skills:
-- Twitter:
+### Brief intro of yourself
+
+
+### Personal website
+
+
+### Skills
+
+
+### Twitter
+
+
+### What's the first project you want to build after join Y lines
