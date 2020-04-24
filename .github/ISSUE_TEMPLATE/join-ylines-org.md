@@ -1,7 +1,7 @@
 ---
 name: Join ylines.org
 about: Welcome
-title: ''
+title: Join ylines.org
 labels: ''
 assignees: ''
 
