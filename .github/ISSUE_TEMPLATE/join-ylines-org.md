@@ -16,7 +16,7 @@ assignees: ''
 ### Skills
 
 
-### Twitter
+### Twitter (optional)
 
 
-### What's the first project you want to build after join Y lines
+### What's the first project you want to build after join Y lines (optional)
